@@ -1,0 +1,6 @@
+{
+  "name": "Kinetix Studio - Motion Graphics Workflow",
+  "description": "Gestor integral de guiones audiovisuales, storyboard sincronizado por tiempos y frames, cronograma de producción por hitos y generador de código Remotion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
